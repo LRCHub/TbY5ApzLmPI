@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Purple Pill feat. SKY-HI（feat. SKY-HI）",
+  "base_artist": "ØMI",
+  "createdAt": "2026-02-20T05:27:00.963328Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Purple Pill feat. SKY-HI",
+      "artist": "OMI",
+      "has_synced": false,
+      "path": "select/pl_01_Purple_Pill_feat._SKY-HI_OMI.txt"
+    }
+  ]
+}
